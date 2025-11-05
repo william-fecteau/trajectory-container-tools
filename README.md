@@ -198,7 +198,7 @@ Common use cases:
 
 ### From direct instantiation
 
-#### Use one of the many predifined trajectory dataclass from the `tct.dataclasses` module 
+#### Use one of the many predefined trajectory dataclass from the `tct.dataclasses` module 
 
 ```python
 import trajectory_container_tools as tct
