@@ -163,7 +163,7 @@ git clone https://github.com/norlab-ulaval/trajectory-container-tools.git
 cd trajectory-container-tools
 
 # Install in development mode
-pip install -e .[ros,dev]
+pip install -e '.[ros,dev]'
 ```
 
 The `dev` install extra install developement dependencies.
